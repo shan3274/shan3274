@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shan3274
-- 👀 I’m interested in os development
-- 🌱 I’m currently learning dsa
+- 👀 I’m interested in DSA
+- 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on any intresting project for fresher
 - 📫 How to reach me ...
 
