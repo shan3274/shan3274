@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @shan3274
-- 👀 I’m interested in DSA
-- 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on any intresting project for fresher
+- 👀 I’m interested in C,C++ AND JAVA
 - 📫 How to reach me ...
 
 <!---
