@@ -1,4 +1,4 @@
-<img src="https://your-banner-image-link.com" alt="Shan Khan - Software Developer" width="100%" />
+<img src="[https://your-banner-image-link.com](https://media.licdn.com/dms/image/v2/D4D03AQFLJNGWcCsmAg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1694789349491?e=1749081600&v=beta&t=Mcw7wmk5OMo8IA3qLR96lVZ6HbjT5WzcOooNKwmCJMQ)" alt="Shan Khan - Software Developer" width="100%" />
 
 <h1 align="center">👋 Hi there, I'm Shan Khan </h1>
 
